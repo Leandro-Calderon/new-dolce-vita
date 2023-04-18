@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+.titulo {
+  color: rgb(145, 125, 240);
+  font-family: "Poppins", sans-serif;
+}
+
+.headerContainer {
+  position: relative;
+  display: flex;
+  background: rgb(145, 125, 240);
+  padding: 0.5em;
+  font-family: "Poppins", sans-serif;
+  width: 100%;
+}
+
+.logoBatidora {
+  max-width: 8em;
+}
+
+.logoInstagram {
+  max-width: 8em;
+  text-align: right;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["src/styles/abstracts/_fonts.scss","src/components/hero/Hero.module.scss","src/styles/abstracts/_colors.scss","src/components/header/Header.module.scss"],"names":[],"mappings":"AAAQ;ACCR;EACI,OCES;EDDT,aDCU;;;AGFd;EACI;EACA;EACA,YDDS;ECET;EACA,aHHU;EGIV;;;AAIJ;EACI;;;AAEJ;EACI;EACA","file":"style.css"}

@@ -1,0 +1,7 @@
+@use "../../styles/abstracts";
+.footerContainer{
+    color:abstracts.$primary;
+    font-family:abstracts.$font-poppins;
+    background-color:tomato;
+    min-height: 10em;
+}

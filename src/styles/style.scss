@@ -1,0 +1,12 @@
+//abstracts
+@use "./abstracts/colors";
+@use "./abstracts/fonts";
+@use "./abstracts/variables";
+@use "./abstracts/mixins";
+
+@use "../components/hero/Hero.module.scss";
+@use "../components/header/Header.module.scss";
+@use "../components/main/Main.module.scss";
+@use "../components/footer/Footer.module.scss";
+
+

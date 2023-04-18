@@ -1,0 +1,14 @@
+@use "../../styles/abstracts";
+
+.headerContainer{
+    display:flex;
+    background:abstracts.$primary;
+    width: 100%;
+    justify-content: space-evenly;
+    
+}
+.logoBatidora{
+    width:6em;
+    height: 6em;
+    margin-top: 1em;
+}

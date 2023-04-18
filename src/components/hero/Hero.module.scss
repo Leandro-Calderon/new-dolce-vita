@@ -1,0 +1,30 @@
+@use "../../styles/abstracts";
+.cocineraContainer {
+  background-color: cyan;
+  border-radius: 50%;
+  min-width: 5em;
+  position: relative;
+  display: flex;
+  min-height: 60vh;
+}
+// .titulo {
+//   color: abstracts.$primary;
+//   font-family: abstracts.$font-poppins;
+//   font-size: 1rem;
+//   text-align: center;
+// }
+
+.heroContainer:hover .cocineraContainer {
+  transform: translateX(-12px);
+}
+.cocinera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+  transition: 0.3s ease;
+}
